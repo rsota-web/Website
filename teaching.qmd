@@ -1,0 +1,26 @@
+---
+title: "Teaching"
+---
+
+## Teaching at RWTH Aachen University
+
+I have worked as a teaching assistant for the following master-level courses:
+
+- **Participatory Modeling** (every winter semester since 2022/2023): The course is an introduction to group model building via system dynamics simulation.I have contributed to main course content, delivered lectures, run technical workshops on introduction to the software AnyLogic and held weekly office hours for a course ranging 12-20 master’s students.
+
+
+- **Adoption and Diffusion of Sustainable Innovations** (every spring semester since 2023): The course is an introduction to agent-based modeling by focusing on the bottom-up adoption and diffusion of innovations. I have contributed to main course content, delivered lectures, run technical workshops and held weekly office hours for a course ranging 10-18 master's students.
+[Read recent course evaluations here](https://www.surveymonkey.com/results/SM-MotNOisZMCIr5k36ZzltYg_3D_3D/)
+
+## Teaching at the WASCAL IMP-EGH master's program
+
+- **Participatory Modeling** (taught remotely in February 2023 and February 2025) - Same course content as at RWTH Aachen University. Delivered as an intensive one-week course to 18-20 master's students enrolled in different West African universities and purusing the WASCAL IMP-EGH green hydrogen master's program.
+
+
+## Mentoring
+
+**Theses supervised**
+
+**M. Esken** (Jan-Jun 2024) - "A socio-economic perspective on a local hydrogen economy for medium-sized industries in the Rheinische Revier - A system dynamics approach". Thesis jointly supervised with the Institute for a Sustainable Hydrogen Economy (INW-4) at Forschungszentrum Jülich.
+
+**A. Viver Altamirano** (Jan - Apr 2026) - "Bridging technology innovation and sustainability: An energy efficiency modeling. Evaluating thermophotovoltaic technology (TPV) as a potential solution for waste-heat-to-power".

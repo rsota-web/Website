@@ -1,0 +1,22 @@
+
+---
+title: "Home"
+---
+
+Welcome to my website! I am a PhD researcher at RWTH Aachen University interested in green hydrogen, techno-economic modeling and quantitative sustainability assessment.
+
+## Research Areas
+
+- Green and low-carbon hydrogen
+- Industrial decarbonization
+- Techno-economic modeling
+- Sustainable Development Goals
+
+## Contact
+
+Email: [lastname]@sustainability.rwth-aachen.de
+
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
